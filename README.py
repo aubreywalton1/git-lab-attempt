@@ -16,13 +16,3 @@ print ("bruhhhhh")
 print ("ok ok")
 print ("yeah idk what is going on")
 print ("hmmmm")
-'''
-yeah
-please work
-yessssssss
-ok ok ok ok
-bruh bruh hold up
-yaaaayyyyyyyy
-ight bet
-ok now we gotta run this junt
-'''
