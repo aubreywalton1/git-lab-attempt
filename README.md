@@ -22,4 +22,5 @@ yessssssss
 ok ok ok ok
 bruh bruh hold up
 yaaaayyyyyyyy
-ight bet 
+ight bet
+ok now we gotta run this junt 
