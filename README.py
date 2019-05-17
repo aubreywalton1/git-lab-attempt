@@ -2,3 +2,4 @@
 # Git lab
 print ("hello")
 print ("ok")
+print ("hi")
